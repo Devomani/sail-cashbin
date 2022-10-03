@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sail-cashbin/static/css/main.424db240.css",
+    "main.js": "/sail-cashbin/static/js/main.cd04ea84.js",
+    "static/media/loadimg.svg": "/sail-cashbin/static/media/loadimg.dd9373f53e9367648c72.svg",
+    "static/media/Imagge.svg": "/sail-cashbin/static/media/Imagge.42bcbaf98413b20a664d07fc8d6d6064.svg",
+    "static/media/logo.svg": "/sail-cashbin/static/media/logo.5cb2ad7a0791a73a9d37cb5155e29b72.svg",
+    "static/media/Bincoin.svg": "/sail-cashbin/static/media/Bincoin.794c442900eecb9e74a1c6624aef1adf.svg",
+    "static/media/Home.svg": "/sail-cashbin/static/media/Home.0f11d66e7b2daea66b7092ab5b3fe350.svg",
+    "static/media/Waste.svg": "/sail-cashbin/static/media/Waste.b4d2373e1b76f8e874907c13c32ea29a.svg",
+    "static/media/Gift.svg": "/sail-cashbin/static/media/Gift.85445dc182c84e59fbe79d9770d8e1e5.svg",
+    "static/media/google.svg": "/sail-cashbin/static/media/google.97814909880602aaa7a43d995715e95d.svg",
+    "static/media/apple.svg": "/sail-cashbin/static/media/apple.76fe633fbb658c8a30c896c552e774dc.svg",
+    "static/media/Facebook.svg": "/sail-cashbin/static/media/Facebook.edd67aab0c04692ae496792604860cfe.svg",
+    "index.html": "/sail-cashbin/index.html",
+    "main.424db240.css.map": "/sail-cashbin/static/css/main.424db240.css.map",
+    "main.cd04ea84.js.map": "/sail-cashbin/static/js/main.cd04ea84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424db240.css",
+    "static/js/main.cd04ea84.js"
+  ]
+}
